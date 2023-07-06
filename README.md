@@ -1,6 +1,6 @@
-# alisabot-gizlilik-politika
+# alvi-gizlilik-politika
 
-1. Bu Gizlilik Politikası, "AlisaBOT" olarak bilinen Discord botunun ve https://alisabot.cf/ web sitesinin kullanım amacını, iade şartlarını, topladığımız verilerin açıkça tarafınıza bildirilmesini, topladığımız verilerin ne şekilde toplandığını açıklamak ve açıkça belirtmek üzere oluşturulmuştur.
+1. Bu Gizlilik Politikası, "Alvi" olarak bilinen Discord botunun ve https://alvibot.cc/ web sitesinin kullanım amacını, iade şartlarını, topladığımız verilerin açıkça tarafınıza bildirilmesini, topladığımız verilerin ne şekilde toplandığını açıklamak ve açıkça belirtmek üzere oluşturulmuştur.
 
 2. Hizmeti sağlamak için, aşağıdakilerden bazıları veya tümü dahil olmak üzere belirli kişisel bilgileri (" Veriler ") toplamamız ve işlememiz gerekir. Bunlar;
 Discord aracılığıyla topladığımız veriler; kullanıcı adı, e-posta, profil fotoğrafı
