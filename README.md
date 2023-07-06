@@ -30,11 +30,11 @@ Hizmeti nasıl kullandığınızı ölçmek, Hizmetin kullanımını kolaylaşt�
 
 Web sitesi, çerezleri bu amaçlar dışında kullanmayacağını kabul, beyan ve taahhüt eder.
 
-7. Verilerinize erişim, verilerin düzeltilmesini, silinmesini veya kısıtlanmasını talep etme veya verilerinizin işlenmesine itiraz etme hakkınız olduğunu lütfen unutmayın. Yürürlükteki yasalara tabi olarak, info@alisabot.cf adresinden bizimle iletişime geçerek onayınızı geri çekebilirsiniz. Bizden e-posta bildirimleri veya reklamlar almakla ilgilenmiyorsanız, info@alisabot.cf adresine e-mail göndererek talepte bulunabilirsiniz. Her durumda, hizmeti sağlamak için gerekli verileri ve diğer yasal nedenleri geçerli Veri Koruma Yasasına tam olarak uygun şekilde tutma hakkını saklı tutarız.
+7. Verilerinize erişim, verilerin düzeltilmesini, silinmesini veya kısıtlanmasını talep etme veya verilerinizin işlenmesine itiraz etme hakkınız olduğunu lütfen unutmayın. Yürürlükteki yasalara tabi olarak, info@alvi.cf adresinden bizimle iletişime geçerek onayınızı geri çekebilirsiniz. Bizden e-posta bildirimleri veya reklamlar almakla ilgilenmiyorsanız, info@alvi.cf adresine e-mail göndererek talepte bulunabilirsiniz. Her durumda, hizmeti sağlamak için gerekli verileri ve diğer yasal nedenleri geçerli Veri Koruma Yasasına tam olarak uygun şekilde tutma hakkını saklı tutarız.
 
 8. Bu Gizlilik Politikasını zaman zaman değiştirebiliriz ve bu değişiklikler, revize edilen Gizlilik Politikasının Sitede yayınlandığı tarih ve saatten itibaren geçerli olacaktır. Herhangi bir değişiklikten haberdar olmanız için Gizlilik Politikamızı düzenli olarak gözden geçirmenizi öneririz.
 
-9. Gizlilik uygulamalarımız hakkında başka sorularınız varsa, lütfen info@alisabot.cf adresine e-posta göndererek bizimle iletişime geçebilirsiniz.
+9. Gizlilik uygulamalarımız hakkında başka sorularınız varsa, lütfen info@alvi.cf adresine e-posta göndererek bizimle iletişime geçebilirsiniz.
 
 
 
